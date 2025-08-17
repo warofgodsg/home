@@ -23,7 +23,7 @@ function App() {
    
       <div>
     <Text fw={500} mb={7} lh={1}>
-      @maintin/core
+      @maintin/core 123
     </Text>
     <Text fz="sm" c="dimmed">
        Core components library: inputs, buttons, overlays, etc.
