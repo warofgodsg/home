@@ -27,8 +27,8 @@ const [checkvalue, setcheckValue] = useState(false);
     
     //param.username = 'admin';
     // 20250820 수정
-    //202508201523 미리수정
-    
+    //202508201523 미리수정!!
+
     // param = {
     //   username:'admin',
     //   password: 'aisnb',
