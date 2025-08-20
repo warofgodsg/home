@@ -26,7 +26,7 @@ const [checkvalue, setcheckValue] = useState(false);
   useEffect(() => {
     
     //param.username = 'admin';
-
+    // 20250820 수정
     // param = {
     //   username:'admin',
     //   password: 'aisnb',
